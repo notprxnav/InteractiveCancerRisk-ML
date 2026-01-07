@@ -29,5 +29,3 @@ Machine Learning Models Used
 - Logistic Regression  
 - Deep Neural Networks (DNN)  
 - Self-training wrapper for semi-supervised adaptation  
-
-Repository Structure
