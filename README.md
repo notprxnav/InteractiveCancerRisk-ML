@@ -14,7 +14,7 @@ Conference Details
 - **Publisher:** IEEE  
 - **Date:** September 2025  
 - **Type:** Conference Publication
-- **Link : ** https://ieeexplore.ieee.org/document/11362794
+- **Link :** https://ieeexplore.ieee.org/document/11362794
 
 Features
 - Real-time cancer risk inference using tabular clinical/lifestyle data  
